@@ -18,7 +18,9 @@ a:visited {
 a:hover {
   color:blue;
 }
-
+.container{
+width: 200% !important;
+}
 a:link {
   color:white;
 }

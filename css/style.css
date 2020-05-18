@@ -4,6 +4,13 @@ body {
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
+.fa-github,.fa-linkedin-in{
+  color: gray;
+
+}
+#portfolio{
+  background-color: white;
+}
 a:visited {
   color: lightblue;
 }
@@ -15,7 +22,9 @@ a:hover {
 a:link {
   color:white;
 }
-
+.nav-item{
+  margin-left: 20px;
+}
 #contactheading{
   color: white;
   font-weight: 600;

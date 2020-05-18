@@ -21,6 +21,9 @@ a:hover {
 .container{
 width: 200% !important;
 }
+.contactfont{
+  color: white;
+}
 a:link {
   color:white;
 }

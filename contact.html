@@ -55,20 +55,102 @@
   </header>
   <div class="container">
 
-    <div class="row">
-      <div class="col-sm-12 col-0-1">
-        <section>
-          <h1 id=contactheading>Contact Information</h1>
-          <ul class="contactinfo">
-            <li>Phone: 0434 416 790</li>
-            <li> <a href="mailto:ben_coelho@hotmail.com">Email: ben_coelho@hotmail.com</a></li>
-            <li> <a href="https://github.com/bdcoelho" target="_blank"> Github: https://github.com/bdcoelho</a></li>
-            <li> <a href="https://www.linkedin.com/in/benson-esd" target="_blank"> Linkedin:
-                https://www.linkedin.com/in/benson-esd</a></li>
-          </ul>
-        </section>
+<!--Section: Contact v.2-->
+<section class="mb-4">
+
+  <!--Section heading-->
+  <h2 class="h1-responsive font-weight-bold text-center my-4 contactfont">Contact us</h2>
+  <!--Section description-->
+  <p class="text-center w-responsive mx-auto mb-5 contactfont">Do you have any questions? Please do not hesitate to contact us directly. Our team will come back to you within
+      a matter of hours to help you.</p>
+
+  <div class="row">
+
+      <!--Grid column-->
+      <div class="col-sm-9 mb-sm-0 mb-5">
+          <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+
+              <!--Grid row-->
+              <div class="row">
+
+                  <!--Grid column-->
+                  <div class="col-sm-6">
+                      <div class="sm-form mb-0">
+                          <input type="text" id="name" name="name" class="form-control">
+                          <label for="name" class="contactfont">Your name</label>
+                      </div>
+                  </div>
+                  <!--Grid column-->
+
+                  <!--Grid column-->
+                  <div class="col-sm-6">
+                      <div class="sm-form mb-0">
+                          <input type="text" id="email" name="email" class="form-control">
+                          <label for="email" class="contactfont">Your email</label>
+                      </div>
+                  </div>
+                  <!--Grid column-->
+
+              </div>
+              <!--Grid row-->
+
+              <!--Grid row-->
+              <div class="row">
+                  <div class="col-sm-12">
+                      <div class="sm-form mb-0">
+                          <input type="text" id="subject" name="subject" class="form-control">
+                          <label for="subject" class="contactfont">Subject</label>
+                      </div>
+                  </div>
+              </div>
+              <!--Grid row-->
+
+              <!--Grid row-->
+              <div class="row">
+
+                  <!--Grid column-->
+                  <div class="col-sm-12">
+
+                      <div class="sm-form">
+                          <textarea type="text" id="message" name="message" rows="2" class="form-control sm-textarea"></textarea>
+                          <label for="message" class="contactfont">Your message</label>
+                      </div>
+
+                  </div>
+              </div>
+              <!--Grid row-->
+
+          </form>
+
+          <div class="text-center text-sm-left">
+              <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</a>
+          </div>
+          <div class="status"></div>
       </div>
-    </div>
+      <!--Grid column-->
+
+      <!--Grid column-->
+      <div class="col-sm-3 text-center">
+          <ul class="list-unstyled mb-0 contactfont">
+              <li><i class="fas fa-map-marker-alt fa-2x"></i>
+                  <p>Glenhuntly, VIC 3163, Australia</p>
+              </li>
+
+              <li><i class="fas fa-phone mt-4 fa-2x"></i>
+                  <p>+ 61 434 416 790</p>
+              </li>
+
+              <li><i class="fas fa-envelope mt-4 fa-2x"></i>
+                  <p>ben_coelho@hotmail.com</p>
+              </li>
+          </ul>
+      </div>
+      <!--Grid column-->
+
+  </div>
+
+</section>
+
   </div>
   <!-- Row 4 -->
   <footer id="footer">

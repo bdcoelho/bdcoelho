@@ -46,6 +46,20 @@ a:link {
     font-size: 2em;
     color: #ffffff;
 }
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 160px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+
+margin-top: 56px;
+  background-color: #343a40;
+  padding-top: 20px;
+}
+
+#sidenavelist{
+  list-style: none;
+  color: white;
+}
 
 .masthead-heading {
     margin-top: -0.2em;

@@ -6,15 +6,72 @@ body {
 }
 .fa-github,.fa-linkedin-in{
   color: gray;
+}
+
+
+.imgstyle{
+  margin-top: 20px;
+  margin-bottom: 20px;
 
 }
+
+
+
+.homeImageLink {
+  position: absolute; 
+  top: 45%; 
+  left: 0;
+  text-align: center; 
+  width: 100%; 
+}
+
+.homeImageLink span { 
+ color: white;
+ font-weight: bolder;
+ font-size: 100%;
+ font-family: "Open Sans", "Helvetica Neue", sans-serif;
+ text-transform: uppercase;
+ pointer-events: none;
+
+}
+
+.img-container {
+ position:relative;
+}
+
+.imgtxt{
+  font-weight: bolder;
+  font-size: 30px;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(50%, 50%);
+}
+.imgcontainer {
+  position: relative;
+  text-align: right;
+  color: white;
+}
+
+
+.alignleft{
+text-align: left;
+
+}
+.alignright{
+text-align: right;
+}
+
 #portfolio{
   background-color: white;
 }
 a:visited {
   color: lightblue;
 }
-
+.centered{
+  text-align: center;
+}
 a:hover {
   color:blue;
 }
@@ -118,5 +175,6 @@ section > h1 {
 }
 .social > li {
   display: inline-block;
-  margin: 0 5px;
+  margin: 0 auto;
+  margin-bottom: 0px;
 }

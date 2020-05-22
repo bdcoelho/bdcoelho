@@ -15,6 +15,9 @@ body {
 
 }
 
+.body-main{
+  margin-top: 55px;
+}
 
 
 .homeImageLink {
@@ -77,9 +80,7 @@ a:visited {
 a:hover {
   color:blue;
 }
-.container{
-width: 200% !important;
-}
+
 .contactfont{
   color: white;
 }
@@ -119,14 +120,18 @@ a:link {
     font-size: 2em;
     color: #ffffff;
 }
+
+
+
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
   width: 160px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
 
-margin-top: 56px;
+
   background-color: #343a40;
   padding-top: 20px;
+  left: 0px;
 }
 
 #sidenavelist{
@@ -180,3 +185,13 @@ section > h1 {
   margin: 0 auto;
   margin-bottom: 0px;
 }
+
+
+
+@media (max-width: 600px) {
+  .sidenav {
+  display: none;
+  }
+  }
+
+

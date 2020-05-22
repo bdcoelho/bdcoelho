@@ -26,8 +26,10 @@ body {
 }
 
 .homeImageLink span { 
- color: white;
+ color: rgb(255, 255,255);
+ background-color: rgba(10, 28,50,0.6);
  font-weight: bolder;
+ border-radius: 3%;
  font-size: 100%;
  font-family: "Open Sans", "Helvetica Neue", sans-serif;
  text-transform: uppercase;

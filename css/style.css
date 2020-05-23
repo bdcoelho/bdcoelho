@@ -136,7 +136,9 @@ a:link {
     color: #ffffff;
 }
 
-
+.offset-row{
+  margin-top: 50px;
+}
 
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */

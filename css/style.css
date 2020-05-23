@@ -15,6 +15,11 @@ body {
 
 }
 
+
+.s-name-text{
+color: rgb(20, 71, 97);
+
+}
 .body-main{
   margin-top: 55px;
 }
@@ -59,6 +64,14 @@ body {
   color: white;
 }
 
+.folio-link:link{
+color: black;
+}
+
+.folio-link:hover{
+  color: blue;
+  }
+  
 
 .alignleft{
 text-align: left;
@@ -67,7 +80,9 @@ text-align: left;
 .alignright{
 text-align: right;
 }
-
+.thickline{
+  border-top: 1px solid rgb(43, 76, 93);
+}
 #portfolio{
   background-color: white;
 }
@@ -125,10 +140,7 @@ a:link {
 
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 160px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-
-
   background-color: #343a40;
   padding-top: 20px;
   left: 0px;
@@ -169,12 +181,47 @@ a:link {
 section > h1 {
     margin-top: 2em;
 }
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+
+#sideNav .navbar-brand .img-profile {
+  max-width: 10rem;
+  max-height: 10rem;
+  border: 0.5rem solid;
+}
+
+.rounded-circle {
+  border-radius: 50% !important;
+}
 
 #footer {
   padding: 20px 0;
   text-align: center;
   background-color: #343a40;
   text-decoration: none;
+}
+
+
+
+.mr-auto,
+.mx-auto {
+  margin-right: auto !important;
+}
+
+
+.ml-auto,
+.mx-auto {
+  margin-left: auto !important;
+}
+
+
+
+.mb-2,
+.my-2 {
+  margin-bottom: 0.5rem !important;
 }
 
 #footer a {
@@ -188,7 +235,7 @@ section > h1 {
 
 
 
-@media (max-width: 600px) {
+@media (max-width: 575px) {
   .sidenav {
   display: none;
   }

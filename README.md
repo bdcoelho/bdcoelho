@@ -1,4 +1,4 @@
-## My portfolio page
+# My portfolio page
 
 * This is a webpage highlighting my work experience and professional achievements.
 * I've used the bootstrap framework to make the page responsive. I have tested the page on laptop, large monitor, and mobile device for responsiveness

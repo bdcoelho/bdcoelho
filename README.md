@@ -7,11 +7,13 @@
 * The main page index.html contains highlights of the type of work that I am specialized in.
 * The portfolio page contains my professional history and achievements
 
+
 # Screenshots
-## The main page as viewed on a desktop or larger screen
+
+### The main page as viewed on a desktop or larger screen
 ![Desktop Screenshot](https://github.com/bdcoelho/bdcoelho.github.io/blob/master/img/desktop.png "Desktop Screensot")
 
-## The main page as viewed on a mobile device demonstrating responsiveness
+### The main page as viewed on a mobile device demonstrating responsiveness
 ![Desktop Screenshot](https://github.com/bdcoelho/bdcoelho.github.io/blob/master/img/mobile.png "Desktop Screensot")
 
 

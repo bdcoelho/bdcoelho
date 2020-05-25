@@ -12,7 +12,7 @@
 ![Desktop Screenshot](https://github.com/bdcoelho/bdcoelho.github.io/blob/master/img/desktop.png "Desktop Screensot")
 
 ## The main page as viewed on a mobile device demonstrating responsiveness
-![Desktop Screenshot](https://github.com/bdcoelho/bdcoelho.github.io/blob/master/img/desktop.png "Desktop Screensot")
+![Desktop Screenshot](https://github.com/bdcoelho/bdcoelho.github.io/blob/master/img/mobile.png "Desktop Screensot")
 
 
 # Future work

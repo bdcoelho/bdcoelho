@@ -15,3 +15,7 @@
 * Convert main page images into links/interactive elements describing more about listed skills
 * Reduce resolution of images to load main page faster
 * Use semi-transparent background for banner text
+
+
+![Desktop Screenshot](https://github.com/bdcoelho/bdcoelho.github.io/blob/master/img/desktop.png "Desktop Screensot")
+

@@ -11,10 +11,10 @@
 # Screenshots
 
 ### The main page as viewed on a desktop or larger screen
-![Desktop Screenshot](https://github.com/bdcoelho/bdcoelho.github.io/blob/master/img/desktop.png "Desktop Screensot")
+![Desktop Screenshot](https://github.com/bdcoelho/bdcoelho.github.io/blob/master/img/desktop.png "Desktop Screenshot")
 
 ### The main page as viewed on a mobile device demonstrating responsiveness
-![Mobile Screenshot](https://github.com/bdcoelho/bdcoelho.github.io/blob/master/img/mobile.png "Mobile Screensot")
+![Mobile Screenshot](https://github.com/bdcoelho/bdcoelho.github.io/blob/master/img/mobile.png "Mobile Screenshot")
 
 
 # Future work

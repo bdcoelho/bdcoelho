@@ -1,4 +1,5 @@
 # My portfolio page
+### The page can be accessed at https://bdcoelho.github.io/
 
 * This is a webpage highlighting my work experience and professional achievements.
 * I've used the bootstrap framework to make the page responsive. I have tested the page on laptop, large monitor, and mobile device for responsiveness
@@ -7,6 +8,7 @@
 * The portfolio page contains my professional history and achievements
 
 # Future work
+
 * Replace photograph
 * Include more web-development and data analysis achievements
 * Host page on personal domain

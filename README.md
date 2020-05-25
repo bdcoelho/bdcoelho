@@ -7,6 +7,14 @@
 * The main page index.html contains highlights of the type of work that I am specialized in.
 * The portfolio page contains my professional history and achievements
 
+# Screenshots
+## The main page as viewed on a desktop or larger screen
+![Desktop Screenshot](https://github.com/bdcoelho/bdcoelho.github.io/blob/master/img/desktop.png "Desktop Screensot")
+
+## The main page as viewed on a mobile device demonstrating responsiveness
+![Desktop Screenshot](https://github.com/bdcoelho/bdcoelho.github.io/blob/master/img/desktop.png "Desktop Screensot")
+
+
 # Future work
 
 * Replace photograph
@@ -16,6 +24,4 @@
 * Reduce resolution of images to load main page faster
 * Use semi-transparent background for banner text
 
-
-![Desktop Screenshot](https://github.com/bdcoelho/bdcoelho.github.io/blob/master/img/desktop.png "Desktop Screensot")
 

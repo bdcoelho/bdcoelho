@@ -15,6 +15,38 @@ body {
 
 }
 
+.card-style img {
+  max-height: 200px;
+}
+
+.custom-card-body{
+
+width: 50%;
+}
+
+.float-right {
+  float: right;
+  margin-left: 25px;
+}
+.card-style {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: rgb(54, 95, 116);
+  color: #ffffff;
+}
+.card-style-top {
+  margin-top: 20px;
+
+}
+
+
+.imgstyle1{
+  margin-top: 20px;
+  margin-bottom: 20px;
+float: right;
+}
 
 .s-name-text{
 color: rgb(20, 71, 97);

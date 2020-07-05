@@ -35,12 +35,22 @@ width: 50%;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: rgb(54, 95, 116);
   color: #ffffff;
+  overflow: auto;
 }
 .card-style-top {
   margin-top: 20px;
 
 }
 
+
+@media (max-width: 767px){
+  .float-right {
+  float: none!important;
+margin: auto;    
+display: block;
+  }
+
+}
 
 .imgstyle1{
   margin-top: 20px;

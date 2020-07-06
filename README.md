@@ -4,7 +4,8 @@
 * This is a webpage highlighting my work experience and professional achievements.
 * I've used the bootstrap framework to make the page responsive. I have tested the page on laptop, large monitor, and mobile device for responsiveness
 * The site includes a contact page. While contact details are provided, the form submission does not currently work as the page is hosted on github and github does not support php
-* The main page index.html contains highlights of the type of work that I am specialized in.
+* The main page index.html contains highlights of the type of work that I am specialized in
+* Please refer to Web Development page for the most recent work in that area
 * The portfolio page contains my professional history and achievements
 
 

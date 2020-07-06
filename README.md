@@ -20,11 +20,6 @@
 
 # Future work
 
-* Replace photograph
-* Include more web-development and data analysis achievements
 * Host page on personal domain
 * Convert main page images into links/interactive elements describing more about listed skills
 * Reduce resolution of images to load main page faster
-* Use semi-transparent background for banner text
-
-

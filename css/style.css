@@ -180,6 +180,7 @@ a:link {
     margin-bottom: 0.1em;
     font-size: 2em;
     color: #ffffff;
+    background-color: rgba(10, 28,50,0.6);;
 }
 
 .offset-row{

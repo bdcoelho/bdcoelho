@@ -115,7 +115,10 @@ color: black;
   color: blue;
   }
   
-
+  .main-link:hover{
+    color: rgb(3, 41, 112);
+    }
+    
 .alignleft{
 text-align: left;
 
@@ -297,3 +300,11 @@ section > h1 {
     font-size: 1.5rem;
     margin-right: 1.5rem;
   }
+
+  .coming-soon {
+    color: white;
+    font-weight: bold;
+    margin: 13% 0% 13% 0%;
+    text-align: center;
+  }
+  

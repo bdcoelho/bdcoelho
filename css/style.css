@@ -124,7 +124,9 @@ color: rgb(20, 71, 97);
 .img-container {
  position:relative;
 }
-
+.links{
+  margin-left: 15px;
+}
 .imgtxt{
   font-weight: bolder;
   font-size: 30px;
@@ -172,7 +174,7 @@ a:visited {
   text-align: center;
 }
 a:hover {
-  color:blue;
+  color:rgb(31, 31, 206);
 }
 
 .contactfont{

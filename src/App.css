@@ -1,0 +1,439 @@
+/* General Styles */
+
+body {
+  background-color: #ededed;
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  position: relative;
+}
+
+/* Headings */
+h2 {
+  color: #001b31;
+  margin: 0;
+  font-size: 2rem;
+}
+
+.flex {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Sections */
+section {
+  padding: 40px 0 80px 0;
+  text-align: center;
+}
+
+section .container {
+  padding-top: 40px;
+}
+
+.row {
+  width: 100%;
+  margin: 0;
+}
+
+
+
+/* Font Awesome Icons */
+a > i {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+
+a > i:hover {
+  color:  rgb(192, 72, 90);;
+}
+
+/* Links */
+a {
+  color: #ffffff;
+  text-align: center;
+  font-size: 1rem;
+}
+
+a:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* This is to add margin to the bottom of image tiles */
+.col-md-4 {
+  margin: 0 0 25px 0;
+}
+
+@media screen and (max-width: 1024px) {
+  /* Section: About */
+  /* Resizing the text within the button element */
+  .button-md {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  /* Section: About */
+  /* Resizing the text within the button element */
+  .button-md {
+    font-size: 1rem;
+  }
+
+  /* Adding padding to the top to create space between the text and image */
+  .bio-text-right, .bio-text-left {
+    padding-top: 20px;
+  }
+}
+
+@media screen and (max-width: 414px) {
+  /* Section: About */
+  /* Adding margin to the bottom of the button to create some separation */
+  .button-sm {
+    margin: 0 0 5px 0;
+  }
+}
+
+/* About CSS */
+.align-img{
+  margin: 0px auto 20px auto ;
+
+}
+#section-about {
+  background-color: #fbfbfb;
+}
+
+.header-bar {
+  background: #0eabb1;
+  height: 4px;
+  width: 70px;
+  margin: 15px auto 30px auto;
+}
+
+.profile-pic img {
+  border-radius: 20px;
+  height: 250px;
+  width: 250px;
+
+
+  display: flex;
+
+  border: 3px solid #0eabb1;
+
+}
+
+.about-margin{
+
+  margin: 30px auto 0px auto;
+
+}
+
+.intro-text{
+text-align: left;
+vertical-align: middle;
+background-color: #ededed;
+border-radius: 20px;
+padding: 3%;
+
+}
+
+
+/* Career CSS */
+
+#section-career {
+  background-color: #ededed;
+}
+
+.events{
+position: relative !important;
+margin-top: 5%;
+}
+
+.text-center{
+  width: 50%;
+  margin: 0 auto;
+}
+h6 {
+  color: gray;
+}
+
+/* Contact CSS */
+
+#contact {
+  background-color: #ededed;
+}
+
+.form-control {
+  display: inline-flex!important;
+  margin-bottom: 10px;
+}
+
+/* Footer CSS */
+
+.footer {
+  border-top: 3px solid #0eabb1;
+  background-color: rgb(43, 76, 93);
+}
+
+.footer-a:hover {
+  color: rgb(192, 72, 90) !important;
+}
+
+.copyright{
+    font-size: 10px;
+}
+
+/* Header CSS */
+
+header {
+  position: sticky;
+}
+
+nav {
+  border-bottom: 3px solid #0eabb1;
+  background-color: rgb(43, 76, 93);
+}
+
+
+header #navbar-nav a {
+  color: #ffffff;
+  font-weight: 400;
+}
+
+
+header #navbar-nav a:hover {
+  color: rgb(192, 72, 90);
+}
+
+.nav-pills .nav-link.active {
+  background-color: #0eabb1;
+}
+/* Home CSS */
+
+
+
+.name {
+  color: #0eabb1;
+  font-weight: 600;
+}
+
+.btn {
+  background-color: #0eabb1;
+  border-color: #0eabb1;
+  color: #fff;
+  font-weight: 500;
+}
+
+.btn:active {
+  background-color: rgb(192, 72, 90) !important;
+  border-color: rgb(192, 72, 90) !important;
+}
+.intro {
+  font-size: 45px;
+  background-color: rgba(10, 28,50,0.6);
+  border-radius: 5%;
+  line-height: 50px;
+  margin: 0 0 10px 0 !important;
+  z-index: 1;
+  text-align: center;
+}
+
+.btn:hover {
+  background-color: rgb(192, 72, 90); 
+  border-color: rgb(192, 72, 90);
+}
+
+
+.btn-home:hover i {
+  transform: rotateZ(90deg);
+}
+
+
+.btn i {
+  display: block;
+  transition: all 0.4s ease;
+  color: #fff;
+}
+
+.btn:focus {
+  box-shadow: none;
+}
+
+.btn-primary:active,
+.btn-primary:focus {
+  background-color: #0eabb1;
+  border-color: #0eabb1;
+}
+
+.btn-home > div {
+  padding: 5px 10px 5px 10px;
+}
+
+section:nth-of-type(1) {
+  color: #fff;
+  height: 100vh;
+  padding: 0 10px;
+  background-color: #252a35;
+}
+
+
+
+.btn-primary:hover {
+  background-color: rgb(192, 72, 90);
+  border-color: rgb(192, 72, 90);
+}
+
+/* Portfolio CSS */
+
+#section-portfolio {
+  background-color: #fbfbfb;
+}
+.hover-effect {
+  width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  cursor: default;
+  background: #0eabb1;
+  border-radius: 5px;
+}
+
+.hover-effect .overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  padding: 50px 20px;
+}
+
+.hover-effect img {
+  display: block;
+  position: relative;
+  max-width: none;
+  width: calc(100% + 20px);
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: translate3d(-10px, 0, 0);
+  transform: translate3d(-10px, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.hover-effect:hover img {
+  opacity: 0.4;
+  filter: alpha(opacity=40);
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+
+.hover-effect h2 {
+  text-transform: uppercase;
+  color: #ffffff;
+  text-align: center;
+  position: relative;
+  font-size: 15px;
+  overflow: hidden;
+  padding: 0.5em 0;
+  background-color: #252a35;
+  opacity: 0.5;
+}
+
+.hover-effect h2:after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: #fff;
+  content: "";
+  -webkit-transition: -webkit-transform 0.35s;
+  transition: transform 0.35s;
+  -webkit-transform: translate3d(-100%, 0, 0);
+  transform: translate3d(-100%, 0, 0);
+}
+
+.hover-effect:hover h2:after {
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+
+.hover-effect a,
+.hover-effect p {
+  color: #fff;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: translate3d(100%, 0, 0);
+  transform: translate3d(100%, 0, 0);
+}
+
+
+.overlay > a > h2:hover {
+  color: #0eabb1;
+transform: translate3d(0, 0, 0);
+}
+
+.hexa:after{
+  content: ""; 
+  position: absolute; 
+  left: 0; 
+  width: 0; 
+  height: 0;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-top: 15px solid #f0f0f0;
+  bottom: -15px;
+}
+
+.hexa{
+  border: 0px;
+  float: left;
+  text-align: center;
+  height: 35px;
+  width: 60px;
+  font-size: 22px;
+  background: #f0f0f0;
+  color: #3c3c3c;
+  position: relative;
+  margin-top: 15px;
+}
+
+
+.overlay > a > h2:hover {
+  color: #0eabb1;
+}
+
+header h1{
+  text-align: center;
+  font-weight: bold;
+  margin-top: 0;
+}
+  
+ header p{
+   text-align: center;
+   margin-bottom: 0;
+ }
+ .hover-effect:hover a,
+ .hover-effect:hover p {
+   opacity: 1;
+   filter: alpha(opacity=100);
+   -webkit-transform: translate3d(0, 0, 0);
+   transform: translate3d(0, 0, 0);
+ }
+ 
+
+.hexa:before{
+  content: ""; 
+  position: absolute; 
+  left: 0; 
+  width: 0; 
+  height: 0;
+  border-bottom: 15px solid #f0f0f0;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  top: -15px;
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "value": "Sep 2003",
+    "description": "Bachelor of Engineering, Mechanical",
+    "location": "Visveswaraya Technological University, Karnataka, India",
+    "slug": "Commenced undergraduate study in Mechanical Engineering in 2003 which was completed in July 2007.",
+    "type": "Study"
+  },
+  {
+    "value": "Jan 2008",
+    "description": "Power Systems Engineer",
+    "location": "Hayat Communications, Kuwait",
+    "slug": "As Power Systems Engineer, I led the installation and maintenance teams servicing the network of a major mobile telecom operator in Kuwait. I was also the lead engineer in a series of innovative projects aimed at improving network-wide energy efficiency and reliability.",
+    "type": "Work"
+  },
+  {
+    "value": "Jan 2011",
+    "description": "Master of Environment, Energy Efficiency Modelling and Implementation",
+    "location": "University of Melbourne, Victoria, Australia",
+    "slug": "Undertook a two year program ending in 2012 where I specialized in Building Energy Modelling, Building Services, and Sustainable Design and Development.",
+    "type": "Study"
+  },
+  {
+    "value": "Jun 2012",
+    "description": "Energy Modeller",
+    "location": "Setmetrics, Victoria, Australia",
+    "slug": "Took up part-time project work with Setmetrics in my third semester at University of Melbourne. The role involved building computer models to assess commercial building design and real-world energy performance, as well as monthly reporting on energy performance of our clients' buildings.",
+    "type": "Work"
+  },
+
+  {
+    "value": "May 2013",
+    "description": "ESD Engineer",
+    "location": "Setmetrics, Victoria, Australia",
+    "slug": "Progressed to a full-time role as ESD engineer taking on new responsibilities in research and product development. My role involved understanding the customers business needs and transforming those ideas into robust and scalable solutions",
+    "type": "Work"
+  },
+  {
+    "value": "Jan 2017",
+    "description": "Senior ESD Engineer",
+    "location": "Setmetrics, Victoria, Australia",
+    "slug": "With sustained growth of our engineering and software teams, I took on the role of Senior ESD Engineer. My new responsibilities involved working collaboratively with our web-development team to transform engineering solutions into a powerful and intuitive web-application.",
+    "type": "Work"
+  },
+  {
+    "value": "May 2020",
+    "description": "Coding Bootcamp - Full-stack Web Development",
+    "location": "Monash University, Victoria, Australia",
+    "slug": "Joined a six month intensive course in web development. The course allowed me to build on previous experience with web-development to gain the the technical expertise of a full-stack web developer. HTML, CSS, JavaScript, Node.js, React.js, SQL and NoSQL databases were among the skills gained. The course is due for completion in October 2020.",
+    "type": "Study"
+  }
+]

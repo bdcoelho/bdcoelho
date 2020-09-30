@@ -18,13 +18,13 @@ export default [
     name: "Employee Directory",
     image: employeeDirectory,
     app: "https://bdcoelho.github.io/employee-directory/",
-    github: "https://github.com/Bdcoelho/employee-directory"
+    github: "https://github.com/bdcoelho/employee-directory"
   },
   {
     name: "Burger Logger",
     image: burgerLogger,
     app: "https://lit-chamber-58185.herokuapp.com/",
-    github: "https://github.com/Bdcoelho/burger"
+    github: "https://github.com/bdcoelho/burger"
   },
   {
     name: "Weather Dashboard",
@@ -47,7 +47,7 @@ export default [
   {
     name: "Note Taker",
     image: noteTaker,
-    app: "https://github.com/Bdcoelho/note-taker",
+    app: "https://desolate-meadow-17602.herokuapp.com/",
     github: "https://github.com/bdcoelho/note-taker"
   },
   {

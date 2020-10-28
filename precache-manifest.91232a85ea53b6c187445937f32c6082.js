@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d51bdb9ac60e2461d53ac29a90df812",
+    "revision": "78291ca5edac64d0962210b7c09d9ac9",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "56bdd82846f2dc32be91",
+    "revision": "156021d58c644acd6421",
     "url": "/static/css/main.d760315d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.1d9effb9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "56bdd82846f2dc32be91",
-    "url": "/static/js/main.aa5301fd.chunk.js"
+    "revision": "156021d58c644acd6421",
+    "url": "/static/js/main.44ce86f1.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -32,16 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ProfilePicture.1de3b521.jpg"
   },
   {
-    "revision": "a1caca41e933faf36d1c3e72d8236da4",
-    "url": "/static/media/Resume-Coelho,Benson.a1caca41.pdf"
+    "revision": "faa579d2ac04c86844f6b41b84813f41",
+    "url": "/static/media/Resume-Coelho,Benson.faa579d2.pdf"
   },
   {
     "revision": "1702b9a83a3335d223cb826e87190c4a",
     "url": "/static/media/banner.1702b9a8.jpg"
-  },
-  {
-    "revision": "13c95155234bf03e972471aa533fad4d",
-    "url": "/static/media/burger-logger.13c95155.png"
   },
   {
     "revision": "67f54cd513cfc91d7f2d0e17f42c0ad6",
@@ -54,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9fdfde4dd3300de8c6877d0c90e1cd25",
     "url": "/static/media/farmers-market.9fdfde4d.png"
+  },
+  {
+    "revision": "ee3bc4fba6f203c82f6c6ba09c30908b",
+    "url": "/static/media/howdy-neighbour.ee3bc4fb.png"
   },
   {
     "revision": "10a48e5aa72f9e1157ce29643cd319a5",

@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.d760315d.chunk.css",
-    "main.js": "/static/js/main.aa5301fd.chunk.js",
-    "main.js.map": "/static/js/main.aa5301fd.chunk.js.map",
+    "main.js": "/static/js/main.44ce86f1.chunk.js",
+    "main.js.map": "/static/js/main.44ce86f1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.1d9effb9.chunk.js": "/static/js/2.1d9effb9.chunk.js",
     "static/js/2.1d9effb9.chunk.js.map": "/static/js/2.1d9effb9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b78fed240f84c255b101ff4474e3f70f.js": "/precache-manifest.b78fed240f84c255b101ff4474e3f70f.js",
+    "precache-manifest.91232a85ea53b6c187445937f32c6082.js": "/precache-manifest.91232a85ea53b6c187445937f32c6082.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.d760315d.chunk.css.map": "/static/css/main.d760315d.chunk.css.map",
     "static/js/2.1d9effb9.chunk.js.LICENSE.txt": "/static/js/2.1d9effb9.chunk.js.LICENSE.txt",
     "static/media/ProfilePicture.jpg": "/static/media/ProfilePicture.1de3b521.jpg",
-    "static/media/Resume-Coelho,Benson.pdf": "/static/media/Resume-Coelho,Benson.a1caca41.pdf",
+    "static/media/Resume-Coelho,Benson.pdf": "/static/media/Resume-Coelho,Benson.faa579d2.pdf",
     "static/media/index.css": "/static/media/banner.1702b9a8.jpg",
-    "static/media/burger-logger.png": "/static/media/burger-logger.13c95155.png",
     "static/media/code-quiz.png": "/static/media/code-quiz.67f54cd5.png",
     "static/media/employee-directory.png": "/static/media/employee-directory.a4f57a46.png",
     "static/media/farmers-market.png": "/static/media/farmers-market.9fdfde4d.png",
+    "static/media/howdy-neighbour.png": "/static/media/howdy-neighbour.ee3bc4fb.png",
     "static/media/note-taker.png": "/static/media/note-taker.10a48e5a.png",
     "static/media/weather-dashboard.png": "/static/media/weather-dashboard.fd1dc5c3.png",
     "static/media/work-calendar.png": "/static/media/work-calendar.b04be949.png",
@@ -31,6 +31,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.1d9effb9.chunk.js",
     "static/css/main.d760315d.chunk.css",
-    "static/js/main.aa5301fd.chunk.js"
+    "static/js/main.44ce86f1.chunk.js"
   ]
 }

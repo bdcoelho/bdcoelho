@@ -212,7 +212,6 @@ header #navbar-nav a:hover {
 
 
 .name {
-  color: #0eabb1;
   font-weight: 600;
 }
 
@@ -228,14 +227,33 @@ header #navbar-nav a:hover {
   border-color: rgb(192, 72, 90) !important;
 }
 .intro {
-  font-size: 45px;
-  background-color: rgba(10, 28,50,0.6);
+  font-size:  70px;
+color: rgb(221, 221, 221);
+font-family: 'Berkshire Swash', cursive;
   border-radius: 5%;
   line-height: 50px;
   margin: 0 0 10px 0 !important;
   z-index: 1;
   text-align: center;
 }
+
+
+
+.sub-intro {
+  font-size: 45px;
+  font-family: 'Berkshire Swash', cursive;
+font-weight: 100;
+  color: rgb(221, 221, 221);
+
+
+}
+.intro-banner {
+
+  background-color: rgba(83,0,0,0.1);
+
+
+}
+
 
 .btn:hover {
   background-color: rgb(192, 72, 90); 
